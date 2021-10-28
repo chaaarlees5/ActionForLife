@@ -35,7 +35,7 @@ https://drive.google.com/file/d/14asAv69D-hC_AiGkzxGcPBUGhoJjWQMB/view?usp=shari
 * Guilherme: https://www.linkedin.com/in/guilherme-macedo-cruz/
     
 
-## 💻  Contribuidores: 
+## 💻  Time de Desenvolvedores: 
 
 | <a href="https://github.com/AlysonRodrigo">`Alyson Rodrigo`<br><img src="https://avatars.githubusercontent.com/u/88194213?v=4" style="zoom:20%;" /></a> | <a href="https://github.com/chaaarlees5">`Charles Roberto`<br><img src="https://avatars.githubusercontent.com/u/53629670?v=4" style="zoom:20%;" /></a> | <a href="https://github.com/dayannemdc">`Dayanne Chaves`<br><img src="https://avatars.githubusercontent.com/u/86607053?v=4" style="zoom:20%;" /></a> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
